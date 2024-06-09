@@ -36,6 +36,11 @@ A beautiful and simple weather application built with Python and Tkinter, fetchi
 2. **Enter the city name**:
     ## 🖼️ Screenshot
 
-![Screenshot](ExampleSS.png)
+   ![Screenshot](ExampleSS.png)
+
+## 📝 Code Overview
+weather App_GUI.py: The main script containing the GUI implementation and weather fetching logic.
+
+
 
 

@@ -34,5 +34,8 @@ A beautiful and simple weather application built with Python and Tkinter, fetchi
    python weather_gui.py
 
 2. **Enter the city name**:
-    ![[Example SS.png]]
+    ## 🖼️ Screenshot
+
+![Screenshot](Example_SS.png)
+
 

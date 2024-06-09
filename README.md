@@ -36,6 +36,6 @@ A beautiful and simple weather application built with Python and Tkinter, fetchi
 2. **Enter the city name**:
     ## 🖼️ Screenshot
 
-![Screenshot](Example_SS.png)
+![Screenshot](ExampleSS.png)
 
 
